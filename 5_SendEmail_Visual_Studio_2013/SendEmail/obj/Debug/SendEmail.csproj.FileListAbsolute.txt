@@ -1,0 +1,7 @@
+C:\Users\stas-\OneDrive\project\5_SendEmail_Visual_Studio_2013\SendEmail\bin\Debug\SendEmail.exe.config
+C:\Users\stas-\OneDrive\project\5_SendEmail_Visual_Studio_2013\SendEmail\bin\Debug\SendEmail.exe
+C:\Users\stas-\OneDrive\project\5_SendEmail_Visual_Studio_2013\SendEmail\bin\Debug\SendEmail.pdb
+C:\Users\stas-\OneDrive\project\5_SendEmail_Visual_Studio_2013\SendEmail\obj\Debug\SendEmail.csprojAssemblyReference.cache
+C:\Users\stas-\OneDrive\project\5_SendEmail_Visual_Studio_2013\SendEmail\obj\Debug\SendEmail.csproj.CoreCompileInputs.cache
+C:\Users\stas-\OneDrive\project\5_SendEmail_Visual_Studio_2013\SendEmail\obj\Debug\SendEmail.exe
+C:\Users\stas-\OneDrive\project\5_SendEmail_Visual_Studio_2013\SendEmail\obj\Debug\SendEmail.pdb
